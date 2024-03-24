@@ -1,2 +1,4 @@
 # Anet_A8_Marlin2.1.2-BL-Touch
-Stock Marlin 2.1.2 firmware for Anet A8 and Anet Motherboard for those who added bed leveling.
+Marlin 2.1.2 firmware for Anet A8, with Anet Motherboard supporting Probe for those who added bed leveling.
+
+AVRDUDESS-2.17: Recommended Method for flashing "firmware.hex" file, includes instructions; firmware.hex: pre-built Anet A8 Firmware; Marlin-2.1.2.Anet-A8.zip: Marlin-2.1.2 source configured for Stock Anet A8 with probe; README.md: This file
